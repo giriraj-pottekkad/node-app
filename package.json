@@ -1,0 +1,19 @@
+{
+  "name": "mocha",
+  "version": "0.0.1",
+  "description": "Test framework for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giriraj-pottekkad/node-app.git"
+  },
+  "author": "Giriraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giriraj-pottekkad/node-app/issues"
+  },
+  "homepage": "https://github.com/giriraj-pottekkad/node-app#readme"
+}
